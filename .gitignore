@@ -27,7 +27,7 @@ logs/
 .coverage
 htmlcov/
 
-# Documentation source files
+# Documentation / local project reference files
 docs/
 
 # Local utility scripts
