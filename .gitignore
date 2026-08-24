@@ -26,3 +26,9 @@ logs/
 .pytest_cache/
 .coverage
 htmlcov/
+
+# Documentation source files
+docs/
+
+# Local utility scripts
+reset_doctor_password.py
